@@ -7,7 +7,7 @@ gfdwbmm
 2013.08.14
 
 
-ewewewwerrwrwerwwer  lbg lbg
+ewewewwerrwrwerwwer lbg  lbg lbg
 
 远程桌面采用的是一种类似TELNET的技术，他是从TELNET协议发展而来的。通俗的讲他就是图形化的TELNET.（他是一种C/S模式，客户机可以通过TELNET登录到高配置的服务器上，在服务器上运行程序）。
 
